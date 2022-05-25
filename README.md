@@ -19,7 +19,8 @@
           
 - 💖 Queridinho do Momento => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />      
           
-- 📈 Estou Aprendendo/Estudando => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+- 📈 Pretendo Aprimorar => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
    
-- Pretendo Aprender => 
+- 📋 IDE's Fav => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          
           
