@@ -1,9 +1,10 @@
 <div align="center">
 
 <html>
-          <h1>Olá! Me Chamo Clara :D</h2>
+          <h3>Olá! Me Chamo Clara :D</h3>
+          <font color="green">
 </html>
-<br>
+<hr>
 <br>
 
 <div align="center">
