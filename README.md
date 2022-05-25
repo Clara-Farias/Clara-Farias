@@ -1,8 +1,8 @@
 <div align="center">
 
 <html>
-          <h3>Olá! Me Chamo Clara :D</h3>
-          <font color="green">
+          <h3 font color = "red" >Olá! Me Chamo Clara :D</h3>
+          <hr>
 </html>
 
 <br>
@@ -36,7 +36,7 @@
 - 📋 IDE's Fav => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br>
-<hr>
+<br>
 <div align = "center">
      <img align="center" alt="Clara-gif" height="300" width="600" src="https://c.tenor.com/OYriF0qofhwAAAAC/sheldon-cooper-laugh.gif">
  </div>
