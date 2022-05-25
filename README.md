@@ -1,5 +1,5 @@
 <div align="center">
-### Olá! Me Chamo Clara :D
+Olá! Me Chamo Clara :D
 
 <div align="center">
 <a href="https://github.com/Clara-Farias">
@@ -16,13 +16,12 @@
   <a href="https://www.linkedin.com/in/clara-farias-7ba1221b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
+          
 <div align="left">
 - 📚 Atualmente, Estudo Análise e Desenvolvimento de Sistemas(ADS) na Unifametro.
-          
+<div align="center">          
 - 💖 Queridinho do Momento => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />      
-          
+<div align="center">          
 - 📈 Pretendo Aprimorar => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-   
+<div align="center">   
 - 📋 IDE's Fav => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
-          
