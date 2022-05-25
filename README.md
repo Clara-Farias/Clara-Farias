@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/clara-farias-7ba1221b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
-
+<div align="left">
 - 📚 Atualmente, Estudo Análise e Desenvolvimento de Sistemas(ADS) na Unifametro.
           
 - 💖 Queridinho do Momento => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />      
