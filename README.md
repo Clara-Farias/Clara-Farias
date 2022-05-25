@@ -30,11 +30,11 @@
 <div align="center">
 - 📚 Atualmente, Estudo Análise e Desenvolvimento de Sistemas(ADS) na Unifametro.
 <div align="center">          
-- 💖 Queridinho do Momento => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />      
+- 💖 Queridinho do Momento => <img height = "28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />      
 <div align="center">          
-- 📈 Pretendo Aprimorar => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+- 📈 Pretendo Aprimorar => <img height = "28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
 <div align="center">   
-- 📋 IDE's Fav => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+- 📋 IDE's Fav => <img height = "28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br>
 <br>
