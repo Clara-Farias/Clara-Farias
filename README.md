@@ -28,6 +28,6 @@
 
 <br>
 <div align = "center">
-     <img align="center" alt="Clara-gif" height="300" width="600" src="https://tenor.com/view/sheldon-cooper-laugh-sarcastic-tbbt-gaming-gif-6165657">
+     <img align="center" alt="Clara-gif" height="300" width="600" src="https://c.tenor.com/OYriF0qofhwAAAAC/sheldon-cooper-laugh.gif">
  </div>
             
