@@ -1,5 +1,5 @@
-## Olá! Me Chamo Clara:D
-#### 💻 Análise e Desenvolvimento de Sistemas 💻
+### Olá! Me Chamo Clara :D
+
 <div>
 <a href="https://github.com/Clara-Farias">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara-Farias&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,14 +15,11 @@
   </div>
 
 
-- 📚 Atualmente, Estudo ADS na Unifametro
-- 📈 Linguagens de Programação que estudo/ já estudei: <img height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+- 📚 Atualmente, Estudo Análise e Desenvolvimento de Sistemas(ADS) na Unifametro.
           
+- 💖 Queridinho do Momento => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />      
           
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 Estou Aprendendo/Estudando => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+   
+- Pretendo Aprender => 
+          
