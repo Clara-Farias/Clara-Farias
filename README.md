@@ -4,7 +4,7 @@
           <h3>Olá! Me Chamo Clara :D</h3>
           <font color="green">
 </html>
-<hr>
+
 <br>
 
 <div align="center">
@@ -23,7 +23,9 @@
   <a href="https://www.linkedin.com/in/clara-farias-7ba1221b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
-<br>         
+          
+<br>
+<hr>
 <div align="center">
 - 📚 Atualmente, Estudo Análise e Desenvolvimento de Sistemas(ADS) na Unifametro.
 <div align="center">          
@@ -34,7 +36,7 @@
 - 📋 IDE's Fav => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br>
-<br>
+<hr>
 <div align = "center">
      <img align="center" alt="Clara-gif" height="300" width="600" src="https://c.tenor.com/OYriF0qofhwAAAAC/sheldon-cooper-laugh.gif">
  </div>
