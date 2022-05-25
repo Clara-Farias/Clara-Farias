@@ -27,6 +27,7 @@
 - 📋 IDE's Fav => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br>
+<br>
 <div align = "center">
      <img align="center" alt="Clara-gif" height="300" width="600" src="https://c.tenor.com/OYriF0qofhwAAAAC/sheldon-cooper-laugh.gif">
  </div>
