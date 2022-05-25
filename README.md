@@ -1,7 +1,7 @@
 <div align="center">
 
 <html>
-          <p2>Olá! Me Chamo Clara :D</p2>
+          <p1>Olá! Me Chamo Clara :D</p1>
 </html>
 <br>
 <br>
