@@ -4,7 +4,7 @@
 <a href="https://github.com/Clara-Farias">
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara-Farias&layout=compact&langs_count=7&theme=dracula"/>
           
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Clara-Farias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clara-Farias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 - 📋 IDE's Fav => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br>
-<div align = "center" style="display: inline_block">
+<div align = "center">
      <img align="center" alt="Clara-gif" height="300" width="600" src="https://tenor.com/view/sheldon-cooper-laugh-sarcastic-tbbt-gaming-gif-6165657">
  </div>
             
