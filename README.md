@@ -1,7 +1,8 @@
 <div align="center">
 
 <html>
-          <h3 font color = "red" >Olá! Me Chamo Clara :D</h3>
+          <h3>Olá! Me Chamo Clara :D</h3>
+          <body bgcolor="red">
           <hr>
 </html>
 
