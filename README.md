@@ -7,9 +7,7 @@
 </div>
 
 - 📚 Atualmente, Estudo ADS na Unifametro
-- 📈 Linguagens de Programação que estudo/ já estudei:
-<img height = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+- 📈 Linguagens de Programação que estudo/ já estudei: <img height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
           
           
 - 👯 I’m looking to collaborate on ...
