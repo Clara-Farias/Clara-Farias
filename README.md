@@ -1,6 +1,10 @@
 <div align="center">
-Olá! Me Chamo Clara :D
 
+<html>
+          <p3>Olá! Me Chamo Clara :D</p3>
+</html>
+<br>
+<br>
 
 <div align="center">
 <a href="https://github.com/Clara-Farias">
