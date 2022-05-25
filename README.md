@@ -1,4 +1,4 @@
-## Olá! Me Chamo Clara :D
+### Olá! Me Chamo Clara :D
 
 <div align="center">
 <a href="https://github.com/Clara-Farias">
@@ -27,7 +27,7 @@
 - 📋 IDE's Fav => <img height = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br>
-<div style="display: inline_block">
-     <img align="center" alt="Clara-gif" height="300" width="600" src="https://c.tenor.com/lWzpIwy2t1UAAAAC/sheldon-cooper.gif">
+<div align = "center" style="display: inline_block">
+     <img align="center" alt="Clara-gif" height="300" width="600" src="https://tenor.com/view/sheldon-cooper-laugh-sarcastic-tbbt-gaming-gif-6165657">
  </div>
             
